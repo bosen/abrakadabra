@@ -9,7 +9,7 @@
     "icon": "card-outline",
     "title": "Credit Cards",
     "haptic": "Error",
-    "sound": "click"
+    "sound": "rclick"
   },
   {
     "icon": "arrow-right-bold-outline",
