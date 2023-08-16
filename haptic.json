@@ -6,19 +6,19 @@
     "sound": "click"
   },
   {
-    "icon": "briefcase",
+    "icon": "card-outline",
     "title": "Credit Cards",
     "haptic": "Error",
     "sound": "click"
   },
   {
-    "icon": "briefcase",
+    "icon": "arrow-forward",
     "title": "Application",
     "haptic": "Warning",
     "sound": "click"
   },
   {
-    "icon": "briefcase",
+    "icon": "heart-outline",
     "title": "Charity Transfer",
     "haptic": "Light",
     "sound": "click"
