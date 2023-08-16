@@ -1,1 +1,38 @@
-
+[
+  {
+    "icon": "briefcase",
+    "title": "Dashboard",
+    "haptic": "Success",
+    "sound": "click"
+  },
+  {
+    "icon": "briefcase",
+    "title": "Dashboard",
+    "haptic": "Error",
+    "sound": "click"
+  },
+  {
+    "icon": "briefcase",
+    "title": "Dashboard",
+    "haptic": "Warning",
+    "sound": "click"
+  },
+  {
+    "icon": "briefcase",
+    "title": "Dashboard",
+    "haptic": "Light",
+    "sound": "click"
+  },
+  {
+    "icon": "briefcase",
+    "title": "Dashboard",
+    "haptic": "Medium",
+    "sound": "click"
+  },
+  {
+    "icon": "briefcase",
+    "title": "Dashboard",
+    "haptic": "Heavy",
+    "sound": "click"
+  }
+]
