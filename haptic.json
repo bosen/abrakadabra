@@ -1,37 +1,47 @@
 [
    {
+      "id":"1",
       "icon":"wallet-outline",
       "title":"Dashboard Cards",
       "haptic":"Success",
       "sound":"click",
-      "link":"/card"
+      "link":"/card",
+      "image":"https://picsum.photos/1440/2842?random=${1}"
    },
    {
+      "id":"2",
       "icon":"card-outline",
       "title":"Credit Card Process",
       "haptic":"Error",
       "sound":"rclick",
-      "link":"/card"
+      "link":"/card",
+      "image":"https://picsum.photos/1440/2842?random=${2}"
    },
    {
+      "id":"3",
       "icon":"arrow-right-bold-outline",
       "title":"Login",
       "haptic":"Warning",
       "sound":"click",
-      "link":"/card"
+      "link":"/card",
+      "image":"https://picsum.photos/1440/2842?random=${3}"
    },
    {
+      "id":"4",
       "icon":"heart-outline",
       "title":"Charity Transfer",
       "haptic":"Light",
       "sound":"click",
-      "link":"/card"
+      "link":"/card",
+      "image":"https://picsum.photos/1440/2842?random=${4}"
    },
    {
+      "id":"5",
       "icon":"home",
       "title":"Apply for Personal Loan",
       "haptic":"Medium",
       "sound":"click",
-      "link":"/card"
+      "link":"/card",
+      "image":"https://picsum.photos/1440/2842?random=${5}"
    }
 ]
