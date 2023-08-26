@@ -1,21 +1,21 @@
 [
    {
       "icon":"wallet-outline",
-      "title":"Dashboard",
+      "title":"Dashboard Cards",
       "haptic":"Success",
       "sound":"click",
       "link":"/card"
    },
    {
       "icon":"card-outline",
-      "title":"Credit Cards",
+      "title":"Credit Card Process",
       "haptic":"Error",
       "sound":"rclick",
       "link":"/card"
    },
    {
       "icon":"arrow-right-bold-outline",
-      "title":"Application",
+      "title":"Login",
       "haptic":"Warning",
       "sound":"click",
       "link":"/card"
@@ -29,15 +29,8 @@
    },
    {
       "icon":"home",
-      "title":"Title 1",
+      "title":"Apply for Personal Loan",
       "haptic":"Medium",
-      "sound":"click",
-      "link":"/card"
-   },
-   {
-      "icon":"home",
-      "title":"Title 2",
-      "haptic":"Heavy",
       "sound":"click",
       "link":"/card"
    }
