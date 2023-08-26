@@ -3,36 +3,42 @@
     "icon": "wallet-outline",
     "title": "Dashboard",
     "haptic": "Success",
-    "sound": "click"
+    "sound": "click",
+    "link": "/card",
   },
   {
     "icon": "card-outline",
     "title": "Credit Cards",
     "haptic": "Error",
-    "sound": "rclick"
+    "sound": "rclick",
+    "link": "/card"
   },
   {
     "icon": "arrow-right-bold-outline",
     "title": "Application",
     "haptic": "Warning",
-    "sound": "click"
+    "sound": "click",
+    "link": "/card"
   },
   {
     "icon": "heart-outline",
     "title": "Charity Transfer",
     "haptic": "Light",
-    "sound": "click"
+    "sound": "click",
+    "link": "/card",
   },
   {
     "icon": "home",
     "title": "Title 1",
     "haptic": "Medium",
-    "sound": "click"
+    "sound": "click",
+    "link": "/card",
   },
   {
     "icon": "home",
     "title": "Title 2",
     "haptic": "Heavy",
-    "sound": "click"
+    "sound": "click",
+    "link": "/card",
   }
 ]
