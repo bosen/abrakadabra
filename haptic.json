@@ -4,7 +4,7 @@
     "title": "Dashboard",
     "haptic": "Success",
     "sound": "click",
-    "link": "/card",
+    "link": "/card"
   },
   {
     "icon": "card-outline",
@@ -25,20 +25,20 @@
     "title": "Charity Transfer",
     "haptic": "Light",
     "sound": "click",
-    "link": "/card",
+    "link": "/card"
   },
   {
     "icon": "home",
     "title": "Title 1",
     "haptic": "Medium",
     "sound": "click",
-    "link": "/card",
+    "link": "/card"
   },
   {
     "icon": "home",
     "title": "Title 2",
     "haptic": "Heavy",
     "sound": "click",
-    "link": "/card",
+    "link": "/card"
   }
 ]
