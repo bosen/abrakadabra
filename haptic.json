@@ -15,7 +15,7 @@
       "haptic":"Error",
       "sound":"rclick",
       "link":"/card",
-      "image":"https://picsum.photos/1440/2842?random=${2}"
+      "image":"https://bosen.net/haptic/2.jpg"
    },
    {
       "id":"3",
@@ -24,7 +24,7 @@
       "haptic":"Warning",
       "sound":"click",
       "link":"/card",
-      "image":"https://picsum.photos/1440/2842?random=${3}"
+      "image":"https://bosen.net/haptic/3.jpg"
    },
    {
       "id":"4",
@@ -33,7 +33,7 @@
       "haptic":"Light",
       "sound":"click",
       "link":"/card",
-      "image":"https://picsum.photos/1440/2842?random=${4}"
+      "image":"https://bosen.net/haptic/4.jpg"
    },
    {
       "id":"5",
@@ -42,6 +42,6 @@
       "haptic":"Medium",
       "sound":"click",
       "link":"/card",
-      "image":"https://picsum.photos/1440/2842?random=${5}"
+      "image":"https://bosen.net/haptic/5.jpg"
    }
 ]
