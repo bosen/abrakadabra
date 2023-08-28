@@ -6,7 +6,7 @@
       "haptic":"Success",
       "sound":"click",
       "link":"/card",
-      "image":"https://picsum.photos/1440/2842?random=${1}"
+      "image":"../../assets/1.jpg"
    },
    {
       "id":"2",
