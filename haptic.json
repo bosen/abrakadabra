@@ -6,7 +6,7 @@
       "haptic":"Success",
       "sound":"click",
       "link":"/card",
-      "image":"https://bosen.net/haptic/1.jpg"
+      "image":"../gifs/card.gif"
    },
    {
       "id":"2",
